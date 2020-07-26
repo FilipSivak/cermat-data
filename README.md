@@ -6,7 +6,7 @@ This repository is relevant only to Czech nationals. Hence the documentation is 
 Prosím všechny aby k datům přistupovali zodpovědně a případné závěry si pečlivě rozmysleli.
 
 ## Stáhnout data
-TODO
+[maturita_19-07-2020.xlsx](https://github.com/FilipSivak/cermat-data/releases/download/1.0.0/maturita_19-07-2020.xlsx)
 
 ## Jak pustit python script na stažení dat
 1. Nainstalujte si python >= 3.7.x
